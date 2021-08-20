@@ -6,7 +6,7 @@
 
 ## Screenshots
 
-![App Screenshot]([https://res.cloudinary.com/naweb/image/upload/v1629468944/portfolio_cpsywj.png))
+![alt text]([https://res.cloudinary.com/naweb/image/upload/v1629468944/portfolio_cpsywj.png))
 
 <hr>
 
