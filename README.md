@@ -2,7 +2,7 @@
 
 <p align="center">Este proyecto es una página personal para compartir mi CV y mi portfolio como desarrollador web.</p>
 
-<hr>
+
 
 ## Screenshots
 
